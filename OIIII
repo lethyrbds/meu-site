@@ -1,15 +1,1 @@
-<!DOCTYPE CSS>
-<style>
-body:before {
-height: 100px;
-width: 100px;
-display: block;
-position: fixed; 
-top: 0; 
-left: 0; 
-z-index: 100;
-background-image: url('https://64.media.tumblr.com/d42cacba64d3e585b49d7f1161e994b9/1126bbff7a026f4d-8d/s250x400/fb5b0f380c4af424e5d406a4f74091450b31d2f2.gifv');
-background-size: cover;
-background-repeat: no-repeat;
-background-position:center;}
-  </style>
+
